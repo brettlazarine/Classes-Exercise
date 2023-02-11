@@ -1,0 +1,15 @@
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.exe
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.dll
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.pdb
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.dll
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.pdb
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\TrueCoders\GitHub\repos\Classes-Exercise\Classes\obj\Debug\net6.0\ref\Classes.dll
